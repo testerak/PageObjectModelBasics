@@ -1,6 +1,10 @@
-19/10/2020 09:41:36 devpinoyLogger Config file loaded
-19/10/2020 09:41:36 devpinoyLogger OR file loaded
-19/10/2020 09:41:41 devpinoyLogger Chrome browser launched
-19/10/2020 09:41:43 devpinoyLogger Navigated to :https://www.zoho.com
-19/10/2020 09:41:50 devpinoyLogger Clicking on Element:  loginlink_CSS
-19/10/2020 09:41:53 devpinoyLogger Clicking on Element:  nexbtn_XPATH
+19/10/2020 09:50:45 devpinoyLogger Config file loaded
+19/10/2020 09:50:45 devpinoyLogger OR file loaded
+19/10/2020 09:50:50 devpinoyLogger Chrome browser launched
+19/10/2020 09:50:52 devpinoyLogger Navigated to :https://www.zoho.com
+19/10/2020 09:50:58 devpinoyLogger Clicking on Element:  loginlink_CSS
+19/10/2020 09:51:01 devpinoyLogger Clicking on Element:  nexbtn_XPATH
+19/10/2020 09:51:15 devpinoyLogger Clicking on Element:  crmlink_CSS
+19/10/2020 09:51:16 devpinoyLogger Clicking on Element:  accountstab_CSS
+19/10/2020 09:51:17 devpinoyLogger Typing in:  createaccountbtn_CSS Entering Value as : Ajay
+19/10/2020 09:51:20 devpinoyLogger Clicking on Element:  cancelacctbtn_CSS

@@ -19,7 +19,7 @@ public class HomePage extends Page{
 		
 	public LoginPage goToLogin() {
 		//driver.findElement(By.cssSelector(".zh-login")).click();
-		System.out.println("TEST Git ci");
+		System.out.println("TEST Git ci int");
 		click("loginlink_CSS");
 		return new LoginPage();
 		
